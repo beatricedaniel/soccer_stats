@@ -14,7 +14,7 @@ ELT and ML pipelines for soccer data analysis
  settings
 
  ## Sources 
- ### women
+ ### Women
  * article https://statsbomb.com/articles/soccer/analytics-and-modelling-in-womens-football/
  * 2023 women world cup https://statsbomb.com/news/statsbomb-release-free-2023-womens-world-cup-data/
  * 20/21 FA women Super League https://statsbomb.com/news/statsbomb-release-free-2020-21-fa-womens-super-league-data-updated-r-guide/
